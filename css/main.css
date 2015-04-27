@@ -6,8 +6,11 @@ body {
   background: #b2cecf;
 }
 
-#slider1 {
-  
+#slider {
+  margin-top: 4px;
+  width: 840px;
+  height: 200px;
+
 }
 
 .wrap {
@@ -33,6 +36,7 @@ color: #50d07d;
 width: 30%;
 float: left;
 height: auto;
+background:#DFE8EB;
 }
 
 
