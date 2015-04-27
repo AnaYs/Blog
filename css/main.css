@@ -1,0 +1,41 @@
+
+
+
+body {
+  color: #434545;
+  background: #b2cecf;
+}
+
+#slider1 {
+  
+}
+
+.wrap {
+  width: 80%;
+  min-width: 300px;
+  margin:auto;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #434545;
+  font-size: 50px;
+}
+.content {
+text-align:block;
+width: 70%;
+float: right;
+background:#DFE8EB;
+}
+
+.sidebar {
+color: #50d07d;
+width: 30%;
+float: left;
+height: auto;
+}
+
+
+.maintext {
+
+}
