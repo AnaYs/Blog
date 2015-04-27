@@ -6,42 +6,49 @@ body {
   background: #b2cecf;
 }
 
-#slider {
-  margin-top: 4px;
-  width: 840px;
-  height: 300px;
-  display: block;
-  border-radius: 3px;
+header {
+  width: 100%;
+  margin: 0 auto;
+}
 
+#slider {
+  width: 100%;
+  min-width: 300px;
+  height: 450px;
+  display: block;
 }
 
 .wrap {
   width: 80%;
-  min-width: 300px;
-  margin:auto;
+  margin:0 auto;
   margin-top: 50px;
+}
+
+.content {
+  text-align:block;
+  width: 70%;
+  float: right;
+  background:#DFE8EB;
+  text-indent: 10px;
+}
+
+.sidebar {
+  color: #50d07d;
+  width: 30%;
+  float: left;
 }
 
 h1 {
   color: #434545;
   font-size: 50px;
+  text-indent: 25px;
 }
-.content {
-text-align:block;
-width: 70%;
-float: right;
-background:#DFE8EB;
-}
-
-.sidebar {
-color: #50d07d;
-width: 30%;
-float: left;
-height: auto;
-background:#DFE8EB;
-}
-
 
 .maintext {
+  margin: 10px 20px;
+}
 
+li {
+  list-style-type: none;
+  padding-left: 18px;
 }
