@@ -22,20 +22,22 @@ header {
   width: 80%;
   margin:0 auto;
   margin-top: 50px;
+  overflow: hidden;
 }
 
 .content {
   text-align:block;
-  width: 70%;
-  float: right;
+  width: 80%;
+  float: left;
   background:#DFE8EB;
   text-indent: 10px;
 }
 
 .sidebar {
   color: #50d07d;
-  width: 30%;
+  width: 20%;
   float: left;
+  margin: 20px 0px;
 }
 
 h1 {
@@ -51,4 +53,8 @@ h1 {
 li {
   list-style-type: none;
   padding-left: 18px;
+}
+
+footer {
+  text-align: center;
 }
